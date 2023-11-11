@@ -201,7 +201,7 @@ p {
     font-size: 20px;
 }
 
+/* Making the clicked element stand out more */
 :target {
     background-color: rgb(18, 184, 217);
-    border: #000000, 5px;
   }
